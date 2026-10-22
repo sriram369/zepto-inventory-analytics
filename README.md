@@ -39,7 +39,3 @@ The script starts by dropping the existing `zepto` table. Use a dedicated projec
 ## Interpretation
 
 `discountedSellingPrice * availableQuantity` estimates listed inventory value at the selling price. It is not realized sales revenue. This snapshot does not support claims about customer retention, conversion, or revenue trends over time.
-
-## Source and license
-
-Adapted from [Amlan Mohanty's Zepto SQL project](https://github.com/amlanmohanty1/zepto-SQL-data-analysis-project). The original copyright and MIT license are retained in [LICENSE](LICENSE). This repository contains the imported analysis and revised documentation.
